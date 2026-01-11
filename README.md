@@ -27,13 +27,13 @@ Database-backed storage for reliability and consistency
 The system includes multiple validation checks to ensure that no errors occur when books are added, removed, issued, or updated in the database.
 
 ## Technologies Used
-Programming Language: C#
+Programming Language: visual basic
 
 Framework: .NET
 
 User Interface: Windows Forms
 
-Database: SQL Server (via connection string)
+Database: SQL Server
 
 ## Installation & Configuration
 
